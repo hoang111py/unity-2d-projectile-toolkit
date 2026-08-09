@@ -1,0 +1,10 @@
+{
+  "name": "com.hoang.projectiletoolkit",
+  "version": "0.1.0",
+  "displayName": "2D Projectile Toolkit",
+  "description": "A lightweight, modular and extensible 2D projectile toolkit for Unity.",
+  "unity": "2022.3",
+  "author": {
+    "name": "hoang111py"
+  }
+}
